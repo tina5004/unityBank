@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb277845316f2af7a4e764fe61944fdef9d6b91a65e1c978ff5c5c2a34ba8d77
-size 82
+2023.02.17~18
+한국시뮬레이션학회 동계 교육 워크숍
+디지털 트운 구현 기술 훈련 및연구역량 강화를 위한 유니티 엔진 학습
